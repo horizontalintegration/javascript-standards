@@ -65,12 +65,12 @@ Other Style Guides
 
 - [1.1](#types--primitives) **Primitives**: When you access a primitive type you work directly on its value.
 
-    - `string`
-    - `number`
-    - `boolean`
-    - `null`
-    - `undefined`
-    - `symbol`
+  - `string`
+  - `number`
+  - `boolean`
+  - `null`
+  - `undefined`
+  - `symbol`
 
     ```javascript
     const foo = 1;
@@ -81,13 +81,13 @@ Other Style Guides
     console.log(foo, bar); // => 1, 9
     ```
 
-    Symbols cannot be faithfully polyfilled, so they should not be used when targeting browsers/environments that don’t support them natively.
+  Symbols cannot be faithfully polyfilled, so they should not be used when targeting browsers/environments that don’t support them natively.
 
 - [1.2](#types--complex)  **Complex**: When you access a complex type you work on a reference to its value.
 
-    - `object`
-    - `array`
-    - `function`
+  - `object`
+  - `array`
+  - `function`
 
     ```javascript
     const foo = [1, 2];
