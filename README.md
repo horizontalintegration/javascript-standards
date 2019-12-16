@@ -143,7 +143,7 @@ Other Style Guides
       let a = 1;
       const b = 1;
     }
-  
+
     console.log(a); // ReferenceError
     console.log(b); // ReferenceError
     ```
