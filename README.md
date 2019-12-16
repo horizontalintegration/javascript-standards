@@ -136,6 +136,7 @@ Other Style Guides
 
 - [2.3](#references--block-scope) Note that both `let` and `const` are block-scoped.
 
+
     ```javascript
     // const and let only exist in the blocks they are defined in.
     {
