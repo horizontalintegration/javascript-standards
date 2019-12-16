@@ -115,7 +115,6 @@ Other Style Guides
     const b = 2;
     ```
 
-<a name="references--disallow-var"></a><a name="2.2"></a>
 - [2.2](#references--disallow-var) If you must reassign references, use `let` instead of `var`. eslint: [`no-var`](https://eslint.org/docs/rules/no-var.html)
 
   > Why? `let` is block-scoped rather than function-scoped like `var`.
