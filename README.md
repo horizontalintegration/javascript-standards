@@ -62,7 +62,8 @@ Other Style Guides
 
 ## Types
 
-- [<a name="1.1">1.1</a>](<a name="types--primitives">#types--primitives</a>) **Primitives**: When you access a primitive type you work directly on its value.
+<a name="1.1"></a>
+- [1.1](<a name="types--primitives">#types--primitives</a>) **Primitives**: When you access a primitive type you work directly on its value.
 
     - `string`
     - `number`
