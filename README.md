@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+# Horizontal Digital JavaScript Style Guide() {
 
 _A mostly reasonable approach to JavaScript_
 
