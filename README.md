@@ -28,20 +28,20 @@ Other Style Guides
 1. [Strings](#strings)
 1. [Functions](#functions)
 1. [Arrow Functions](#arrow-functions)
-1. [Classes & Constructors](#classes--constructors)
+1. [Classes & Constructors](#classes-and-constructors)
 1. [Modules](#modules)
 1. [Iterators and Generators](#iterators-and-generators)
 1. [Properties](#properties)
 1. [Variables](#variables)
 1. [Hoisting](#hoisting)
-1. [Comparison Operators & Equality](#comparison-operators--equality)
+1. [Comparison Operators & Equality](#comparison-operators-and-equality)
 1. [Blocks](#blocks)
 1. [Control Statements](#control-statements)
 1. [Comments](#comments)
 1. [Whitespace](#whitespace)
 1. [Commas](#commas)
 1. [Semicolons](#semicolons)
-1. [Type Casting & Coercion](#type-casting--coercion)
+1. [Type Casting & Coercion](#type-casting-and-coercion)
 1. [Naming Conventions](#naming-conventions)
 1. [Accessors](#accessors)
 1. [Events](#events)
@@ -60,6 +60,7 @@ Other Style Guides
 1. [License](#license)
 1. [Amendments](#amendments)
 
+<a name="types"></a>
 ## Types
 
 <a name="types--variables"></a><a name="1.1"></a>
@@ -130,6 +131,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="referrences"></a>
 ## References
 
 <a name="references--prefer-const"></a><a name="2.1"></a>
@@ -184,6 +186,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="objects"></a>
 ## Objects
 
 <a name="objects--no-new"></a><a name="3.1"></a>
@@ -357,6 +360,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="arrays"></a>
 ## Arrays
 
 <a name="arrays--literals"></a><a name="4.1"></a>
@@ -523,6 +527,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="destructuring"></a>
 ## Destructuring
 
 <a name="destructuring--object"></a><a name="5.1"></a>
@@ -592,6 +597,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="strings"></a>
 ## Strings
 
 <a name="strings--quotes"></a><a name="6.1"></a>
@@ -675,6 +681,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="functions"></a>
 ## Functions
 
 <a name="functions--declarations"></a><a name="7.1"></a>
@@ -957,6 +964,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="arrow-functions"></a>
 ## Arrow Functions
 
 <a name="arrows--use-them"></a><a name="8.1"></a>
@@ -1124,6 +1132,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="classes-and-contructors"></a>
 ## Classes & Constructors
 
 <a name="constructors--use-class"></a><a name="9.1"></a>
@@ -1333,6 +1342,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="modules"></a>
 ## Modules
 
 <a name="modules--use-them"></a><a name="10.1"></a>
@@ -1488,6 +1498,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="iterators-and-generators"></a>
 ## Iterators and Generators
 
 <a name="iterators--nope"></a><a name="11.1"></a>
@@ -1609,6 +1620,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="properties"></a>
 ## Properties
 
 <a name="properties--dot"></a><a name="12.1"></a>
@@ -1656,6 +1668,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="variables"></a>
 ## Variables
 
 <a name="variables--const"></a><a name="13.1"></a>
@@ -1892,6 +1905,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="hoisting"></a>
 ## Hoisting
 
 <a name="hoisting--about"></a><a name="14.1"></a>
@@ -1995,6 +2009,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="comparison-operators-and-equality"></a>
 ## Comparison Operators & Equality
 
 <a name="comparison--eqeqeq"></a><a name="15.1"></a>
@@ -2177,6 +2192,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="blocks"></a>
 ## Blocks
 
 <a name="blocks--braces"></a><a name="16.1"></a>
@@ -2293,6 +2309,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="control-statements"></a>
 ## Control Statements
 
 <a name="control-statements"></a><a name="17.1"></a>
@@ -2364,6 +2381,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="comments"></a>
 ## Comments
 
 <a name="comments--multiline"></a><a name="18.1"></a>
@@ -2501,6 +2519,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="whitespace"></a>
 ## Whitespace
 
 <a name="whitespace--spaces"></a><a name="19.1"></a>
@@ -2989,6 +3008,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="commas"></a>
 ## Commas
 
 <a name="commas--leading-trailing"></a><a name="20.1"></a>
@@ -3124,6 +3144,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="semicolons"></a>
 ## Semicolons
 
 <a name="semicolons--required"></a><a name="21.1"></a>
@@ -3174,6 +3195,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="type-casting-and-coercion"></a>
 ## Type Casting & Coercion
 
 <a name="coercion--explicit"></a><a name="22.1"></a>
@@ -3263,6 +3285,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="naming-conventions"></a>
 ## Naming Conventions
 
 <a name="naming--descriptive"></a><a name="23.1"></a>
@@ -3504,6 +3527,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="accessors"></a>
 ## Accessors
 
 <a name="accessors--not-required"></a><a name="24.1"></a>
@@ -3573,6 +3597,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="events"></a>
 ## Events
 
 <a name="events--hash"></a><a name="25.1"></a>
@@ -3604,6 +3629,7 @@ Other Style Guides
 
   **[⬆ back to top](#table-of-contents)**
 
+<a name="jquery"></a>
 ## jQuery
 
 <a name="jquery--dollar-prefix"></a><a name="26.1"></a>
@@ -3674,6 +3700,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="ecmascript-5-compatibility"></a>
 ## ECMAScript 5 Compatibility
 
 <a name="es5-compat--kangax"></a><a name="27.1"></a>
@@ -3681,8 +3708,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
-<a name="ecmascript-6-styles"></a>
-
+<a name="ecmascript-6-es-2015-styles"></a>
 ## ECMAScript 6+ (ES 2015+) Styles
 
 <a name="es6-styles"></a><a name="28.1"></a>
@@ -3710,6 +3736,7 @@ Other Style Guides
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="standard-library"></a>
 ## Standard Library
 
 The [Standard Library](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects)
@@ -3748,6 +3775,7 @@ contains utilities that are functionally broken but remain for legacy reasons.
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="testing"></a>
 ## Testing
 
 <a name="testing--yup"></a><a name="30.1"></a>
@@ -3771,6 +3799,7 @@ contains utilities that are functionally broken but remain for legacy reasons.
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="performance"></a>
 ## Performance
 
 - [On Layout & Web Performance](https://www.kellegous.com/j/2013/01/26/layout-performance/)
@@ -3785,6 +3814,7 @@ contains utilities that are functionally broken but remain for legacy reasons.
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="resources"></a>
 ## Resources
 
 **Learning ES6+**
@@ -3866,6 +3896,7 @@ contains utilities that are functionally broken but remain for legacy reasons.
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="in-the-wild"></a>
 ## In the Wild
 
 This is a list of organizations that are using this style guide.
@@ -3975,18 +4006,22 @@ This is a list of organizations that are using this style guide.
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="the-javascript-style-guide-guide"></a>
 ## The JavaScript Style Guide Guide
 
 - [Reference](https://github.com/airbnb/javascript/wiki/The-JavaScript-Style-Guide-Guide)
 
+<a name="chat-with-us-about-javascript"></a>
 ## Chat With Us About JavaScript
 
 - Find us on [gitter](https://gitter.im/airbnb/javascript).
 
+<a name="contributors"></a>
 ## Contributors
 
 - [View Contributors](https://github.com/airbnb/javascript/graphs/contributors)
 
+<a name="license"></a>
 ## License
 
 (The MIT License)
@@ -4014,6 +4049,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 **[⬆ back to top](#table-of-contents)**
 
+<a name="amendments"></a>
 ## Amendments
 
 We encourage you to fork this guide and change the rules to fit your team’s style guide. Below, you may list some amendments to the style guide. This allows you to periodically update your style guide without having to deal with merge conflicts.
