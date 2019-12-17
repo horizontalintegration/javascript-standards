@@ -14,7 +14,7 @@ This document is not intended to:
 - Give advice on design patterns and project architecture
 - Guide the reader in learning JavaScript
 
-Other Style Guides
+### Other Style Guides
 
 - [CSS Standards](https://bitbucket.org/horizontal/css-standards)
 
