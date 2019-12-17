@@ -62,8 +62,37 @@ Other Style Guides
 
 ## Types
 
-<a name="types--primitives"></a><a name="1.1"></a>
-- [1.1](#types--primitives) **Primitives**: When you access a primitive type you work directly on its value.
+<a name="types--variables"></a><a name="1.1"></a>
+- [1.1](#types--variables) A variable should remain the same type it was originally assigned (a number, string, boolean, array, or object). Avoid reassigning variables to a different type.
+
+  ````javascript
+  // bad
+  let count = 1;
+
+  count = 'Ben Kenobi';
+
+  // good
+  let count = 1;
+
+  count = 2;
+  ````
+
+<a name="types--returns"></a><a name="1.2"></a>
+- [1.2](#types--returns) Values returned by functions should be of a consistent type. Avoid returning multiple different types.
+
+  ````javascript
+  // bad
+  pressYourLuck(bigMoney) {
+    if (bigMoney) {
+      return 'No whammies!';
+    }
+
+    return false;
+  };
+  ````
+
+<a name="types--primitives"></a><a name="1.3"></a>
+- [1.3](#types--primitives) **Primitives**: When you access a primitive type you work directly on its value.
 
   - `string`
   - `number`
@@ -83,8 +112,8 @@ Other Style Guides
 
   Symbols cannot be faithfully polyfilled, so they should not be used when targeting browsers/environments that don’t support them natively.
 
-<a name="types--complex"></a><a name="1.2"></a>
-- [1.2](#types--complex)  **Complex**: When you access a complex type you work on a reference to its value.
+<a name="types--complex"></a><a name="1.4"></a>
+- [1.4](#types--complex)  **Complex**: When you access a complex type you work on a reference to its value.
 
   - `object`
   - `array`
